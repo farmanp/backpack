@@ -1,10 +1,9 @@
-# coder backpack
-Code it! 
+# What is this? 
+
+This is a repo where I'm tracking my career path in data (science, engineering, infrastructure, operations, and more!). 
 
 
-#### Topics Covered
-
-### Prerequisites
+### Foundations
 
 ### Skills 
 - [Learn SQL](https://www.codecademy.com/learn/learn-sql)
@@ -18,5 +17,3 @@ Code it!
 - [Relational Databases]()
 
 ### Resources 
-
-### Challenges
